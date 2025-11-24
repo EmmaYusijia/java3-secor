@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 01 21:14:42 PDT 2025
+https\://packages.confluent.io/maven/.error=
+https\://packages.confluent.io/maven/.lastUpdated=1762056880767
+https\://repo.clojars.org/.error=
+https\://repo.clojars.org/.lastUpdated=1762056881521
+https\://repo1.maven.org/maven2/.error=
+https\://repo1.maven.org/maven2/.lastUpdated=1762056879825
+https\://repository.apache.org/content/repositories/snapshots/.error=
+https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1762056882796

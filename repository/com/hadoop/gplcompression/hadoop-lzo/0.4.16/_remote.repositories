@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 10 16:50:34 EST 2025
+hadoop-lzo-0.4.16.jar>=
+hadoop-lzo-0.4.16.pom>=
